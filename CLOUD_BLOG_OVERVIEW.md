@@ -1,4 +1,4 @@
-# Cloud Blog — 프로젝트 전체 정리 문서
+# Cloud Blog
 
 > "네이버/티스토리 같은 블로그 서비스를 AWS EKS 위에 직접 설계하고 구축한 프로젝트.
 > HA 3-Tier 아키텍처, Terraform IaC, Docker + EKS 컨테이너 오케스트레이션,
