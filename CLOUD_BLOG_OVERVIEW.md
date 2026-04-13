@@ -16,8 +16,7 @@
 | AWS 리전 | ap-northeast-2 (서울) |
 | AWS 예산 | $100 크레딧 이내 |
 | 개발 환경 | Windows 11 + WSL2 (Ubuntu) |
-| 작업자 | 장재엽 (96년생, 경일대 컴공) |
-| 보유 자격증 | CCNA, AWS SAA, VMware VCP-NV |
+
 
 ---
 
